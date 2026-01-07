@@ -1,0 +1,10 @@
+# Do not checkin ansible vault file
+playbooks/vars/secrets.yml
+
+# do not checkin ansible inventory file
+playbooks/inventory
+
+# Ignore ansible cfg file
+playbooks/ansible.cfg
+
+**/.DS_Store
