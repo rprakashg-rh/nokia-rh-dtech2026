@@ -35,5 +35,5 @@ ssc600_ptp:
 
 ssc600_bundle:
   file: SSC600_SW_KVM-1.5.1.cab
-  path: /home/admin/software
-  extracted_path: /home/admin/software/abb
+  path: /home/admin/sw
+  extracted_path: /home/admin/sw/abb
